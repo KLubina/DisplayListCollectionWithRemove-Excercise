@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHubDesktop\\DisplayListCollectionWithFor-PlusRemove-Excercise\\ConsoleAppIndexableCollections\\IndexableCollectionsIndexRemoveAt.csproj": {}
+    "C:\\GitHubDesktop\\DisplayListCollectionWithFor-PlusRemove-Excercise\\ConsoleAppIndexableCollections\\DisplayListCollectionWithFor-PlusRemove-Excercise.csproj": {}
   },
   "projects": {
-    "C:\\GitHubDesktop\\DisplayListCollectionWithFor-PlusRemove-Excercise\\ConsoleAppIndexableCollections\\IndexableCollectionsIndexRemoveAt.csproj": {
+    "C:\\GitHubDesktop\\DisplayListCollectionWithFor-PlusRemove-Excercise\\ConsoleAppIndexableCollections\\DisplayListCollectionWithFor-PlusRemove-Excercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHubDesktop\\DisplayListCollectionWithFor-PlusRemove-Excercise\\ConsoleAppIndexableCollections\\IndexableCollectionsIndexRemoveAt.csproj",
-        "projectName": "IndexableCollectionsIndexRemoveAt",
-        "projectPath": "C:\\GitHubDesktop\\DisplayListCollectionWithFor-PlusRemove-Excercise\\ConsoleAppIndexableCollections\\IndexableCollectionsIndexRemoveAt.csproj",
+        "projectUniqueName": "C:\\GitHubDesktop\\DisplayListCollectionWithFor-PlusRemove-Excercise\\ConsoleAppIndexableCollections\\DisplayListCollectionWithFor-PlusRemove-Excercise.csproj",
+        "projectName": "DisplayListCollectionWithFor-PlusRemove-Excercise",
+        "projectPath": "C:\\GitHubDesktop\\DisplayListCollectionWithFor-PlusRemove-Excercise\\ConsoleAppIndexableCollections\\DisplayListCollectionWithFor-PlusRemove-Excercise.csproj",
         "packagesPath": "C:\\Users\\krist\\.nuget\\packages\\",
         "outputPath": "C:\\GitHubDesktop\\DisplayListCollectionWithFor-PlusRemove-Excercise\\ConsoleAppIndexableCollections\\obj\\",
         "projectStyle": "PackageReference",

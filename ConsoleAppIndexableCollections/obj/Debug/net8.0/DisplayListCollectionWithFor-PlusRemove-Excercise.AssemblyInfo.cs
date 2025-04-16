@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("IndexableCollectionsIndexRemoveAt")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DisplayListCollectionWithFor-PlusRemove-Excercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+305804f5e666712e67e747380e78e4b0eeebc0af")]
-[assembly: System.Reflection.AssemblyProductAttribute("IndexableCollectionsIndexRemoveAt")]
-[assembly: System.Reflection.AssemblyTitleAttribute("IndexableCollectionsIndexRemoveAt")]
+[assembly: System.Reflection.AssemblyProductAttribute("DisplayListCollectionWithFor-PlusRemove-Excercise")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DisplayListCollectionWithFor-PlusRemove-Excercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Von der MSBuild WriteCodeFragment-Klasse generiert.
